@@ -19,3 +19,7 @@
 5.send_mail
 
 > get data from server and sendmail
+
+6.machine_learning
+
+7.priority queue using heapq
